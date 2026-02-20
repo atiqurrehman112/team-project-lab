@@ -3,3 +3,11 @@
 1. Collaborator A Feature  
 
 2. Collaborator B Feature
+
+# Final Team Project Outline - B's version is best!
+
+<<<<<<< HEAD
+# Team Project Outline
+=======
+# Final Team Project Outline - B's version is best!
+>>>>>>> feature/B-feature
